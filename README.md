@@ -1,5 +1,9 @@
 # WezTerm
 
+> [!IMPORTANT]
+> Archived. This config moved to [dratasich/dotfiles](https://github.com/dratasich/dotfiles).
+> (chezmoi source: `dot_config/<tool>`)
+
 My config for the [wezterm](https://wezterm.org/)-terminal.
 
 Install:
